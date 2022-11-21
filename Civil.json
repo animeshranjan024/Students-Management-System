@@ -1,0 +1,110 @@
+[
+    {
+        "_id":18115117001,
+        "name" : "Ashutosh Ganesh",
+        "roll_no":"CE-2k18-01",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117002,
+        "name" : "Satish",
+        "roll_no":"CE-2k18-02",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117003,
+        "name" : "Chandan Kumar",
+        "roll_no":"CE-2k18-03",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117004,
+        "name" : "Abhishek Kumar",
+        "roll_no":"CE-2k18-04",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117005,
+        "name" : "Sahnoj",
+        "roll_no":"CE-2k18-05",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117006,
+        "name" : "Rohit",
+        "roll_no":"CE-2k18-06",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117007,
+        "name" : "Rohit Kumar",
+        "roll_no":"CE-2k18-07",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117008,
+        "name" : "Shreyansh ",
+        "roll_no":"CE-2k18-08",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117009,
+        "name" : "Ashutosh",
+        "roll_no":"CE-2k18-09",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117010,
+        "name" : "Rishi",
+        "roll_no":"CE-2k18-10",
+        "branch" : "CE"
+    },
+    {
+        "_id":18115117011,
+        "name" : "Priyanshu Priya ",
+        "roll_no":"CE-2k18-11",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117012,
+        "name" : "Abhishek",
+        "roll_no":"CE-2k18-12",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117013,
+        "name" : "Shivam Giri",
+        "roll_no":"CE-2k18-13",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117014,
+        "name" : "Amrit Anand",
+        "roll_no":"CE-2k18-14",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117015,
+        "name" : "Shankey",
+        "roll_no":"CE-2k18-15",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117016,
+        "name" : "Prem",
+        "roll_no":"CE-2k18-16",
+        "branch" : "CE"
+    },
+
+    {
+        "_id":18115117017,
+        "name" : "Bibhuti",
+        "roll_no":"CE-2k18-17",
+        "branch" : "CE"
+    }
+]

@@ -1,0 +1,178 @@
+[
+
+    {
+        "_id":18125117001,
+        "name" : "Prashant",
+        "roll_no":"EEE-2k18-01",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117002,
+        "name" : "Rahul",
+        "roll_no":"EEE-2k18-02",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117003,
+        "name" : "Linesh",
+        "roll_no":"EEE-2k18-03",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117004,
+        "name" : "Rahul Kumar",
+        "roll_no":"EEE-2k18-04",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117005,
+        "name" : "Nikita",
+        "roll_no":"EEE-2k18-05",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117006,
+        "name" : "Priti Pathak",
+        "roll_no":"EEE-2k18-06",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117007,
+        "name" : "Sonali",
+        "roll_no":"EEE-2k18-07",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117008,
+        "name" : "Nisha",
+        "roll_no":"EEE-2k18-08",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117009,
+        "name" : "Nisha Bharti",
+        "roll_no":"EEE-2k18-09",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117010,
+        "name" : "Sanjeet",
+        "roll_no":"EEE-2k18-10",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117011,
+        "name" : "Darshan",
+        "roll_no":"EEE-2k18-11",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117012,
+        "name" : "Farhan",
+        "roll_no":"EEE-2k18-12",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117013,
+        "name" : "Randir",
+        "roll_no":"EEE-2k18-13",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117014,
+        "name" : "Himanshu",
+        "roll_no":"EEE-2k18-14",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117015,
+        "name" : "Vikash",
+        "roll_no":"EEE-2k18-15",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117016,
+        "name" : "Manu",
+        "roll_no":"EEE-2k18-16",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117017,
+        "name" : "Prem",
+        "roll_no":"EEE-2k18-17",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117018,
+        "name" : "Akash Gupta",
+        "roll_no":"EEE-2k18-18",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117019,
+        "name" : "Uday",
+        "roll_no":"EEE-2k18-19",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117020,
+        "name" : "Mayank",
+        "roll_no":"EEE-2k18-20",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117021,
+        "name" : "Gyan Dev",
+        "roll_no":"EEE-2k18-21",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117022,
+        "name" : "Shani",
+        "roll_no":"EEE-2k18-22",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117023,
+        "name" : "Sikhandra",
+        "roll_no":"EEE-2k18-23",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117024,
+        "name" : "Nitesh Kumar",
+        "roll_no":"EEE-2k18-24",
+        "branch" : "EEE"
+    },
+
+    {
+        "_id":18125117025,
+        "name" : "Gyanveer",
+        "roll_no":"EEE-2k18-25",
+        "branch" : "EEE"
+    }
+
+]

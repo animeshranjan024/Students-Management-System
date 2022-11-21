@@ -1,0 +1,251 @@
+[
+    {
+        "_id":18105117001,
+        "name" : "Animesh Ranjan",
+        "roll_no":"CSE-2k18-01",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117002,
+        "name" : "Divesh Jaiswal",
+        "roll_no":"CSE-2k18-02",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117003,
+        "name" : "Aniket Shandilya",
+        "roll_no":"CSE-2k18-03",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117004,
+        "name" : "Vivek Kumar",
+        "roll_no":"CSE-2k18-04",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117005,
+        "name" : "Subhah Kumar",
+        "roll_no":"CSE-2k18-05",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117006,
+        "name" : "Rajeev Kumar Singh",
+        "roll_no":"CSE-2k18-06",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117007,
+        "name" : "Aniket Kumar",
+        "roll_no":"CSE-2k18-07",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117008,
+        "name" : "Surbhi Kumari",
+        "roll_no":"CSE-2k18-08",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117009,
+        "name" : "Anshushree Shah",
+        "roll_no":"CSE-2k18-09",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117010,
+        "name" : "Sristi",
+        "roll_no":"CSE-2k18-10",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117011,
+        "name" : "Vishakha",
+        "roll_no":"CSE-2k18-11",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117012,
+        "name" : "Shivam Kumar",
+        "roll_no":"CSE-2k18-12",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117013,
+        "name" : "Rakesh",
+        "roll_no":"CSE-2k18-13",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117014,
+        "name" : "Shahnawaz Mansuri",
+        "roll_no":"CSE-2k18-14",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117015,
+        "name" : "Sumit Raj",
+        "roll_no":"CSE-2k18-15",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117016,
+        "name" : "Akash Gupta",
+        "roll_no":"CSE-2k18-16",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117017,
+        "name" : "Vandana Kumari",
+        "roll_no":"CSE-2k18-17",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117018,
+        "name" : "Ashutosh Jha",
+        "roll_no":"CSE-2k18-18",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117019,
+        "name" : "Ratan Mishra",
+        "roll_no":"CSE-2k18-19",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117020,
+        "name" : "Aryan Aman",
+        "roll_no":"CSE-2k18-20",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117021,
+        "name" : "Sristi Kashyab",
+        "roll_no":"CSE-2k18-21",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117022,
+        "name" : "Nishi Kumari",
+        "roll_no":"CSE-2k18-22",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117023,
+        "name" : "Manjali Patel",
+        "roll_no":"CSE-2k18-23",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117024,
+        "name" : "Himanshu Raj",
+        "roll_no":"CSE-2k18-24",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117025,
+        "name" : "Himanshu Kumar",
+        "roll_no":"CSE-2k18-25",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117026,
+        "name" : "Birendra Pal",
+        "roll_no":"CSE-2k18-26",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117027,
+        "name" : "Ashish Kumar",
+        "roll_no":"CSE-2k18-27",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117028,
+        "name" : "Alekh Kumar",
+        "roll_no":"CSE-2k18-28",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117029,
+        "name" : "Ankit Kumar",
+        "roll_no":"CSE-2k18-01",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117030,
+        "name" : "Vikram Kumar",
+        "roll_no":"CSE-2k18-30",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117031,
+        "name" : "Vikash Kumar",
+        "roll_no":"CSE-2k18-31",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117032,
+        "name" : "Vikek Kumar",
+        "roll_no":"CSE-2k18-32",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117033,
+        "name" : "Sumit Kumar",
+        "roll_no":"CSE-2k18-33",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117034,
+        "name" : "Subesh Kumar",
+        "roll_no":"CSE-2k18-34",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117035,
+        "name" : "Rakesh Kumar gupta",
+        "roll_no":"CSE-2k18-35",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117036,
+        "name" : "Mamta kumari",
+        "roll_no":"CSE-2k18-36",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117037,
+        "name" : "Khushbu Kumari",
+        "roll_no":"CSE-2k18-37",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117038,
+        "name" : "Divyanshu Darshan",
+        "roll_no":"CSE-2k18-38",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117039,
+        "name" : "Dheeraj",
+        "roll_no":"CSE-2k18-39",
+        "branch" : "CSE"
+    },
+    
+    {
+        "_id":18105117041,
+        "name" : "Vikash Choudhary",
+        "roll_no":"CSE-2k18-41",
+        "branch" : "CSE"
+    },
+    {
+        "_id":18105117042,
+        "name" : "Rohit Kumar",
+        "roll_no":"CSE-2k18-42",
+        "branch" : "CSE"
+    }
+
+
+]

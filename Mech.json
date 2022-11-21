@@ -1,0 +1,73 @@
+[
+
+    {
+        "_id":18135117001,
+        "name" : "Bibhanshu",
+        "roll_no":"ME-2k18-01",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117002,
+        "name" : "Abhash",
+        "roll_no":"ME-2k18-02",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117003,
+        "name" : "Shivam",
+        "roll_no":"ME-2k18-03",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117004,
+        "name" : "P K",
+        "roll_no":"ME-2k18-04",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117005,
+        "name" : "Santanu",
+        "roll_no":"ME-2k18-05",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117006,
+        "name" : "Nikhil",
+        "roll_no":"ME-2k18-06",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117007,
+        "name" : "Gunjan",
+        "roll_no":"ME-2k18-07",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117008,
+        "name" : "Sandeep",
+        "roll_no":"ME-2k18-08",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117009,
+        "name" : "Sunam",
+        "roll_no":"ME-2k18-09",
+        "branch" : "ME"
+    },
+
+    {
+        "_id":18135117010,
+        "name" : "Abhisjek",
+        "roll_no":"ME-2k18-10",
+        "branch" : "ME"
+    }
+
+]
